@@ -1,0 +1,66 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}  
+
+.navbar-brand img{
+    width: 200px;
+    
+}
+.name-highlight{
+    color: rgb(118 194 126);
+    
+    
+}
+.container mt-5{
+    margin: 10%;
+    padding: 2%;
+    
+}
+
+.half-width{
+    width: 1000px;
+    margin-right: 7%;
+    padding-right: 3%;
+}
+
+.half-width img{
+    width: 450px;
+    margin: -10%;
+    padding: 4%;   
+}
+
+.casual{
+    color: #ffc107;
+
+}
+
+.money{
+    color: rgb(118 194 126);
+}
+
+.link-button{
+    text-decoration: none;
+    background-color: rgb(42 30 89);
+    padding: 20px 40px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.image img{
+    width: 600px;
+}
+.col-md-4 img{
+    margin: 0%;
+    padding: 0%;
+    width: 120px;
+}
+.link-button-1{
+    text-decoration: none;
+    background-color: rgb(42 30 89);
+    padding: 10px 20px;
+    border-radius: 7px;
+    color: white;
+    font-weight: bold;
+}
